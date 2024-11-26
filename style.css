@@ -73,3 +73,13 @@ P{
     
 
 }
+
+.editorial{
+    padding: 5px;
+    border-color: #47ADF1;
+    border-radius: 15px;
+    background-color: #47ADF1;
+    color:white;
+    font-size: small;
+    margin-left: 5px;
+}
