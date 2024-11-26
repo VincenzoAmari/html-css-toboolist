@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: rgb(255, 255, 255);
+}
+
+#logo,
+.text-vertical{
+    vertical-align: middle ;
+    margin: 20px 0px 20px 0px;
+    padding-left: 20px;
+   
+    
+}
+
+body{
+    background-color: #F6F8F9;
+}
+
+
+.megabox{
+    background-color: aqua;
+    margin: 50px 15% 5px 15%;
+    
+}
+
