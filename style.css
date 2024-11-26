@@ -24,19 +24,52 @@ body{
 main{
     display: block;
     margin: auto;
+    
 }    
 
 .container{
+    border-radius: 5px;
     background-color: rgb(255, 255, 255);
-    height: 88%;
-    position:fixed;
-    width: 100%;
-    margin: 50px ;
+    margin: 50px 10%;
     display: block;
+    height: 800px;
     
 }
 
 .first-block{
-    position: relative;
+    padding: 15px 50px;
+    
+    
 }
 
+.botton-task{
+    padding: 5px;
+    border-color: #47ADF1;
+    border-radius: 10%;
+    background-color: #47ADF1;
+    color:white;
+}
+
+.botton-section{
+    padding: 5px;
+    border-radius: 10%;
+    border-color: #929292;
+    color: #929292;
+    background-color: white;
+}
+
+P{
+    margin: 50px 50px 20px 50px;
+}
+
+.check-box{
+    margin-left: 50px;
+    margin-right: 5px;
+    color: #8FD5C6;
+    border: solid #8FD5C6 2px;
+    display: inline-block;
+    padding: 0px 5px;
+    border-radius: 50%;
+    
+
+}
