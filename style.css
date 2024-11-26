@@ -18,7 +18,7 @@ nav{
 }
 
 body{
-    background-color: #929292;
+    background-color: #F6F8F9;
 }
 
 main{
@@ -59,7 +59,7 @@ main{
 }
 
 P{
-    margin: 50px 50px 20px 50px;
+    margin: 25px 10px 20px 50px;
 }
 
 .check-box{
@@ -70,10 +70,17 @@ P{
     display: inline-block;
     padding: 0px 5px;
     border-radius: 50%;
-    
-
 }
 
+.cross{
+    margin-left: 50px;
+    margin-right: 5px;
+    color: #EA4339;
+    border: solid #EA4339 2px;
+    display: inline-block;
+    padding: 0px 5px;
+    border-radius: 50%;
+}
 .editorial{
     padding: 5px;
     border-color: #47ADF1;
@@ -82,4 +89,60 @@ P{
     color:white;
     font-size: small;
     margin-left: 5px;
+}
+
+.goals{
+    padding: 5px;
+    border-collapse: unset;
+    border-radius: 15px;
+    background-color: #9551ec;
+    color:white;
+    font-size: small;
+    margin-left: 5px;
+
+}
+
+.recruiting{
+    padding: 5px;
+    border-collapse: unset;
+    border-radius: 15px;
+    background-color: #35cc8d;
+    color:white;
+    font-size: small;
+    margin-left: 5px;
+}
+
+.mobile{
+    padding: 5px;
+    border-collapse: unset;
+    border-radius: 15px;
+    background-color: #fa8909;
+    color:white;
+    font-size: small;
+    margin-left: 5px;
+}
+
+.website{
+    padding: 5px;
+    border-collapse: unset;
+    border-radius: 15px;
+    background-color: #df3196;
+    color:white;
+    font-size: small;
+    margin-left: 5px;
+}
+
+.sales{
+    padding: 5px;
+    border-collapse: unset;
+    border-radius: 15px;
+    background-color: #B0C926;
+    color:white;
+    font-size: small;
+    margin-left: 5px;
+}
+
+.to-do{
+    margin: 25px 0;
+
 }
